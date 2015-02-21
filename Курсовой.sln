@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Курсовой", "Курсовой\Курсовой.csproj", "{C3B86D3E-85DD-4BB3-8722-F9B5E5C1709C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B86D3E-85DD-4BB3-8722-F9B5E5C1709C}.Debug|x86.ActiveCfg = Debug|x86
+		{C3B86D3E-85DD-4BB3-8722-F9B5E5C1709C}.Debug|x86.Build.0 = Debug|x86
+		{C3B86D3E-85DD-4BB3-8722-F9B5E5C1709C}.Release|x86.ActiveCfg = Release|x86
+		{C3B86D3E-85DD-4BB3-8722-F9B5E5C1709C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
